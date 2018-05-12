@@ -20,6 +20,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
 description: "Translation of: Les contes drôlatiques\r\nComposed of the following\
   \ etexts, also available separately: Vol 1: #1925, Vol 2: #2318, & Vol 3: #2551"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13260#Droll-Stories---Complete--13-Collected-from-the-Abbeys-of-Touraine
 gutenberg_issued: '2004-08-23'
 gutenberg_type: Text
 identifiers:
